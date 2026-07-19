@@ -1,158 +1,798 @@
 [
-    { "text": "tak", "audio": "" },
-    { "text": "nie", "audio": "" },
-    { "text": "przepraszam", "audio": "" },
-    { "text": "w dół", "audio": "" },
-    { "text": "alkohol", "audio": "" },
-    { "text": "proszę kontynuować", "audio": "" },
-    { "text": "czy go słyszysz?", "audio": "" },
-    { "text": "za tobą", "audio": "" },
-    { "text": "w innym miejscu", "audio": "" },
-    { "text": "bądź cicho", "audio": "" },
-    { "text": "szalony", "audio": "" },
-    { "text": "ilu ich jest?", "audio": "" },
-    { "text": "nie mogę wyjechać", "audio": "" },
-    { "text": "zawał serca", "audio": "" },
-    { "text": "energia", "audio": "" },
-    { "text": "szukaj mnie", "audio": "" },
-    { "text": "czy możesz mnie poczuć?", "audio": "" },
-    { "text": "światło", "audio": "" },
-    { "text": "wiarygodny", "audio": "" },
-    { "text": "powiedziałem mu", "audio": "" },
-    { "text": "czy brakuje ci czegoś", "audio": "" },
-    { "text": "szybko", "audio": "" },
-    { "text": "dlaczego przyszedłeś?", "audio": "" },
-    { "text": "jak się tu dostałeś", "audio": "" },
-    { "text": "przyjaciel", "audio": ""},
-    { "text": "chcę przyjść", "audio": ""},
-    { "text": "dlaczego pytasz?", "audio": ""},
-    { "text": "czy wiesz?", "audio": ""},
-    { "text": "muzeum", "audio": ""},
-    { "text": "proszę wróć", "audio": ""},
-    { "text": "uwięziony", "audio": ""},
-    { "text": "jestem poniżej", "audio": ""},
-    { "text": "ona się ukrywa", "audio": ""},
-    { "text": "podły", "audio": ""},
-    { "text": "kabel", "audio": ""},
-    { "text": "atak", "audio": ""},
-    { "text": "mało prawdopodobne", "audio": ""},
-    { "text": "tego właśnie chcemy", "audio": ""},
-    { "text": "deski podłogowe", "audio": ""},
-    { "text": "nawet nie blisko", "audio": ""},
-    { "text": "wózek", "audio": ""},
-    { "text": "nawiedzany", "audio": ""},
-    { "text": "może", "audio": ""},
-    { "text": "sukces", "audio": ""},
-    { "text": "ktoś patrzy", "audio": ""},
-    { "text": "dlaczego ona tu jest?", "audio": ""},
-    { "text": "nerwowy", "audio": ""},
-    { "text": "cieszy mnie to", "audio": ""},
-    { "text": "platforma", "audio": ""},
-    { "text": "jestem obok", "audio": ""},
-    { "text": "nakazujemy to", "audio": ""},
-    { "text": "cofnąć się", "audio": ""},
-    { "text": "jak masz na imię?", "audio": ""},
-    { "text": "mogę cię przestraszyć", "audio": ""},
-    { "text": "coś czeka", "audio": ""},
-    { "text": "słyszę cię", "audio": ""},
-    { "text": "sukces", "audio": ""},
-    { "text": "otwórz to", "audio": ""},
-    { "text": "dlaczego tu jesteś?", "audio": ""},
-    { "text": "czasami", "audio": ""},
-    { "text": "to jest moje miejsce", "audio": ""},
-    { "text": "idź naprzód", "audio": ""},
-    { "text": "wewnątrz", "audio": ""},
-    { "text": "niebo", "audio": ""},
-    { "text": "niespokojny", "audio": ""},
-    { "text": "pochowany", "audio": ""},
-    { "text": "łopata", "audio": ""},
-    { "text": "nie odchodź", "audio": ""},
-    { "text": "straszny", "audio": ""},
-    { "text": "zagrajmy w grę", "audio": ""},
-    { "text": "święty", "audio": ""},
-    { "text": "samochód", "audio": ""},
-    { "text": "salon", "audio": ""},
-    { "text": "obniż głos", "audio": ""},
-    { "text": "szpital", "audio": ""},
-    { "text": "nie powinieneś tu być", "audio": ""},
-    { "text": "zrozumieć", "audio": ""},
-    { "text": "złowroga śmierć", "audio": ""},
-    { "text": "chcę porozmawiać", "audio": ""},
-    { "text": "czy jesteś chory?", "audio": ""},
-    { "text": "spójrz, jestem tutaj", "audio": ""},
-    { "text": "spalony", "audio": ""},
-    { "text": "nie wiem", "audio": ""},
-    { "text": "on przychodzi", "audio": ""},
-    { "text": "bezbożny", "audio": ""},
-    { "text": "wyższy", "audio": ""},
-    { "text": "odwrotnie", "audio": ""},
-    { "text": "zawieszony", "audio": ""},
-    { "text": "hrabia", "audio": ""},
-    { "text": "śmierć", "audio": ""},
-    { "text": "zostań ze mną", "audio": ""},
-    { "text": "osiem", "audio": ""},
-    { "text": "niski", "audio": ""},
-    { "text": "młody", "audio": ""},
-    { "text": "przegrany", "audio": ""},
-    { "text": "starożytny", "audio": ""},
-    { "text": "krew", "audio": ""},
-    { "text": "idź dalej", "audio": ""},
-    { "text": "to tutaj", "audio": ""},
-    { "text": "słuchać", "audio": ""},
-    { "text": "bardzo", "audio": ""},
-    { "text": "bolesny", "audio": ""},
-    { "text": "tutaj", "audio": ""},
-    { "text": "chronię to miejsce", "audio": ""},
-    { "text": "dziecko", "audio": ""},
-    { "text": "kobieta tutaj", "audio": ""},
-    { "text": "tylko dla ciebie", "audio": ""},
-    { "text": "moje szczątki", "audio": ""},
-    { "text": "jesteś irytujący", "audio": ""},
-    { "text": "jestem za tobą", "audio": ""},
-    { "text": "poruszaj się szybko", "audio": ""},
-    { "text": "nie mogę się przedostać", "audio": ""},
-    { "text": "łódź", "audio": ""},
-    { "text": "fioletowe włosy", "audio": ""},
-    { "text": "przebrany", "audio": ""},
-    { "text": "proszę, posłuchaj", "audio": ""},
-    { "text": "wesoły", "audio": ""},
-    { "text": "w ciemności", "audio": ""},
-    { "text": "zdjęcie", "audio": ""},
-    { "text": "odwołać się", "audio": ""},
-    { "text": "irytujący", "audio": ""},
-    { "text": "szatan", "audio": ""},
-    { "text": "zaginiony", "audio": ""},
-    { "text": "okłamałem cię", "audio": ""},
-    { "text": "pomóż mi", "audio": ""},
-    { "text": "groby", "audio": ""},
-    { "text": "traktowano mnie źle", "audio": ""},
-    { "text": "ziemia", "audio": ""},
-    { "text": "pozwól mi odpocząć", "audio": ""},
-    { "text": "bóg", "audio": ""},
-    { "text": "kwalifikowany", "audio": ""},
-    { "text": "jestem szczęśliwy", "audio": ""},
-    { "text": "jestem słaby", "audio": ""},
-    { "text": "życie pozagrobowe", "audio": ""},
-    { "text": "przyjdź i idź", "audio": ""},
-    { "text": "demon", "audio": ""},
-    { "text": "jestem wzburzony", "audio": ""},
-    { "text": "miałem złą przeszłość", "audio": ""},
-    { "text": "bądź ostrożny", "audio": ""},
-    { "text": "najstarszy", "audio": ""},
-    { "text": "zbadać", "audio": ""},
-    { "text": "mam wiele wyrzutów sumienia", "audio": ""},
-    { "text": "lekarz", "audio": ""},
-    { "text": "proszę, przestań", "audio": ""},
-    { "text": "but", "audio": ""},
-    { "text": "pod żadnym warunkiem", "audio": ""},
-    { "text": "to trudne", "audio": ""},
-    { "text": "plac zabaw", "audio": ""},
-    { "text": "to możliwe", "audio": ""},
-    { "text": "żałosne", "audio": ""},
-    { "text": "czy widzisz?", "audio": ""},
-    { "text": "to nie ma sensu", "audio": ""},
-    { "text": "rzymski", "audio": ""},
-    { "text": "co to jest?", "audio": ""},
-    { "text": "stary", "audio": ""},
-    { "text": "przybyłem z ciemnego miejsca", "audio": ""}
+    {
+        "text": "tak",
+        "audio": "sounds/001_tak.mp3"
+    },
+    {
+        "text": "nie",
+        "audio": "sounds/002_nie.mp3"
+    },
+    {
+        "text": "przepraszam",
+        "audio": "sounds/003_przepraszam.mp3"
+    },
+    {
+        "text": "w dół",
+        "audio": "sounds/004_w_d.mp3"
+    },
+    {
+        "text": "alkohol",
+        "audio": "sounds/005_alkohol.mp3"
+    },
+    {
+        "text": "proszę kontynuować",
+        "audio": "sounds/006_prosz_kontynuowa.mp3"
+    },
+    {
+        "text": "czy go słyszysz?",
+        "audio": "sounds/007_czy_go_syszysz.mp3"
+    },
+    {
+        "text": "za tobą",
+        "audio": "sounds/008_za_tob.mp3"
+    },
+    {
+        "text": "w innym miejscu",
+        "audio": "sounds/009_w_innym_miejscu.mp3"
+    },
+    {
+        "text": "bądź cicho",
+        "audio": "sounds/010_bd_cicho.mp3"
+    },
+    {
+        "text": "szalony",
+        "audio": "sounds/011_szalony.mp3"
+    },
+    {
+        "text": "ilu ich jest?",
+        "audio": "sounds/012_ilu_ich_jest.mp3"
+    },
+    {
+        "text": "nie mogę wyjechać",
+        "audio": "sounds/013_nie_mog_wyjecha.mp3"
+    },
+    {
+        "text": "zawał serca",
+        "audio": "sounds/014_zawa_serca.mp3"
+    },
+    {
+        "text": "energia",
+        "audio": "sounds/015_energia.mp3"
+    },
+    {
+        "text": "szukaj mnie",
+        "audio": "sounds/016_szukaj_mnie.mp3"
+    },
+    {
+        "text": "czy możesz mnie poczuć?",
+        "audio": "sounds/017_czy_moesz_mnie_poczu.mp3"
+    },
+    {
+        "text": "światło",
+        "audio": "sounds/018_wiato.mp3"
+    },
+    {
+        "text": "wiarygodny",
+        "audio": "sounds/019_wiarygodny.mp3"
+    },
+    {
+        "text": "powiedziałem mu",
+        "audio": "sounds/020_powiedziaem_mu.mp3"
+    },
+    {
+        "text": "czy brakuje ci czegoś",
+        "audio": "sounds/021_czy_brakuje_ci_czego.mp3"
+    },
+    {
+        "text": "szybko",
+        "audio": "sounds/022_szybko.mp3"
+    },
+    {
+        "text": "dlaczego przyszedłeś?",
+        "audio": "sounds/023_dlaczego_przyszede.mp3"
+    },
+    {
+        "text": "jak się tu dostałeś",
+        "audio": "sounds/024_jak_si_tu_dostae.mp3"
+    },
+    {
+        "text": "przyjaciel",
+        "audio": "sounds/025_przyjaciel.mp3"
+    },
+    {
+        "text": "chcę przyjść",
+        "audio": "sounds/026_chc_przyj.mp3"
+    },
+    {
+        "text": "dlaczego pytasz?",
+        "audio": "sounds/027_dlaczego_pytasz.mp3"
+    },
+    {
+        "text": "czy wiesz?",
+        "audio": "sounds/028_czy_wiesz.mp3"
+    },
+    {
+        "text": "muzeum",
+        "audio": "sounds/029_muzeum.mp3"
+    },
+    {
+        "text": "proszę wróć",
+        "audio": "sounds/030_prosz_wr.mp3"
+    },
+    {
+        "text": "uwięziony",
+        "audio": "sounds/031_uwiziony.mp3"
+    },
+    {
+        "text": "jestem poniżej",
+        "audio": "sounds/032_jestem_poniej.mp3"
+    },
+    {
+        "text": "ona się ukrywa",
+        "audio": "sounds/033_ona_si_ukrywa.mp3"
+    },
+    {
+        "text": "podły",
+        "audio": "sounds/034_pody.mp3"
+    },
+    {
+        "text": "kabel",
+        "audio": "sounds/035_kabel.mp3"
+    },
+    {
+        "text": "atak",
+        "audio": "sounds/036_atak.mp3"
+    },
+    {
+        "text": "mało prawdopodobne",
+        "audio": "sounds/037_mao_prawdopodobne.mp3"
+    },
+    {
+        "text": "tego właśnie chcemy",
+        "audio": "sounds/038_tego_wanie_chcemy.mp3"
+    },
+    {
+        "text": "deski podłogowe",
+        "audio": "sounds/039_deski_podogowe.mp3"
+    },
+    {
+        "text": "nawet nie blisko",
+        "audio": "sounds/040_nawet_nie_blisko.mp3"
+    },
+    {
+        "text": "wózek",
+        "audio": "sounds/041_wzek.mp3"
+    },
+    {
+        "text": "nawiedzany",
+        "audio": "sounds/042_nawiedzany.mp3"
+    },
+    {
+        "text": "może",
+        "audio": "sounds/043_moe.mp3"
+    },
+    {
+        "text": "sukces",
+        "audio": "sounds/044_sukces.mp3"
+    },
+    {
+        "text": "ktoś patrzy",
+        "audio": "sounds/045_kto_patrzy.mp3"
+    },
+    {
+        "text": "dlaczego ona tu jest?",
+        "audio": "sounds/046_dlaczego_ona_tu_jest.mp3"
+    },
+    {
+        "text": "nerwowy",
+        "audio": "sounds/047_nerwowy.mp3"
+    },
+    {
+        "text": "cieszy mnie to",
+        "audio": "sounds/048_cieszy_mnie_to.mp3"
+    },
+    {
+        "text": "platforma",
+        "audio": "sounds/049_platforma.mp3"
+    },
+    {
+        "text": "jestem obok",
+        "audio": "sounds/050_jestem_obok.mp3"
+    },
+    {
+        "text": "nakazujemy to",
+        "audio": "sounds/051_nakazujemy_to.mp3"
+    },
+    {
+        "text": "cofnąć się",
+        "audio": "sounds/052_cofn_si.mp3"
+    },
+    {
+        "text": "jak masz na imię?",
+        "audio": "sounds/053_jak_masz_na_imi.mp3"
+    },
+    {
+        "text": "mogę cię przestraszyć",
+        "audio": "sounds/054_mog_ci_przestraszy.mp3"
+    },
+    {
+        "text": "coś czeka",
+        "audio": "sounds/055_co_czeka.mp3"
+    },
+    {
+        "text": "słyszę cię",
+        "audio": "sounds/056_sysz_ci.mp3"
+    },
+    {
+        "text": "sukces",
+        "audio": "sounds/057_sukces.mp3"
+    },
+    {
+        "text": "otwórz to",
+        "audio": "sounds/058_otwrz_to.mp3"
+    },
+    {
+        "text": "dlaczego tu jesteś?",
+        "audio": "sounds/059_dlaczego_tu_jeste.mp3"
+    },
+    {
+        "text": "czasami",
+        "audio": "sounds/060_czasami.mp3"
+    },
+    {
+        "text": "to jest moje miejsce",
+        "audio": "sounds/061_to_jest_moje_miejsce.mp3"
+    },
+    {
+        "text": "idź naprzód",
+        "audio": "sounds/062_id_naprzd.mp3"
+    },
+    {
+        "text": "wewnątrz",
+        "audio": "sounds/063_wewntrz.mp3"
+    },
+    {
+        "text": "niebo",
+        "audio": "sounds/064_niebo.mp3"
+    },
+    {
+        "text": "niespokojny",
+        "audio": "sounds/065_niespokojny.mp3"
+    },
+    {
+        "text": "pochowany",
+        "audio": "sounds/066_pochowany.mp3"
+    },
+    {
+        "text": "łopata",
+        "audio": "sounds/067_opata.mp3"
+    },
+    {
+        "text": "nie odchodź",
+        "audio": "sounds/068_nie_odchod.mp3"
+    },
+    {
+        "text": "straszny",
+        "audio": "sounds/069_straszny.mp3"
+    },
+    {
+        "text": "zagrajmy w grę",
+        "audio": "sounds/070_zagrajmy_w_gr.mp3"
+    },
+    {
+        "text": "święty",
+        "audio": "sounds/071_wity.mp3"
+    },
+    {
+        "text": "samochód",
+        "audio": "sounds/072_samochd.mp3"
+    },
+    {
+        "text": "salon",
+        "audio": "sounds/073_salon.mp3"
+    },
+    {
+        "text": "obniż głos",
+        "audio": "sounds/074_obni_gos.mp3"
+    },
+    {
+        "text": "szpital",
+        "audio": "sounds/075_szpital.mp3"
+    },
+    {
+        "text": "nie powinieneś tu być",
+        "audio": "sounds/076_nie_powiniene_tu_by.mp3"
+    },
+    {
+        "text": "zrozumieć",
+        "audio": "sounds/077_zrozumie.mp3"
+    },
+    {
+        "text": "złowroga śmierć",
+        "audio": "sounds/078_zowroga_mier.mp3"
+    },
+    {
+        "text": "chcę porozmawiać",
+        "audio": "sounds/079_chc_porozmawia.mp3"
+    },
+    {
+        "text": "czy jesteś chory?",
+        "audio": "sounds/080_czy_jeste_chory.mp3"
+    },
+    {
+        "text": "spójrz, jestem tutaj",
+        "audio": "sounds/081_spjrz_jestem_tutaj.mp3"
+    },
+    {
+        "text": "spalony",
+        "audio": "sounds/082_spalony.mp3"
+    },
+    {
+        "text": "nie wiem",
+        "audio": "sounds/083_nie_wiem.mp3"
+    },
+    {
+        "text": "on przychodzi",
+        "audio": "sounds/084_on_przychodzi.mp3"
+    },
+    {
+        "text": "bezbożny",
+        "audio": "sounds/085_bezbony.mp3"
+    },
+    {
+        "text": "wyższy",
+        "audio": "sounds/086_wyszy.mp3"
+    },
+    {
+        "text": "odwrotnie",
+        "audio": "sounds/087_odwrotnie.mp3"
+    },
+    {
+        "text": "zawieszony",
+        "audio": "sounds/088_zawieszony.mp3"
+    },
+    {
+        "text": "hrabia",
+        "audio": "sounds/089_hrabia.mp3"
+    },
+    {
+        "text": "śmierć",
+        "audio": "sounds/090_mier.mp3"
+    },
+    {
+        "text": "zostań ze mną",
+        "audio": "sounds/091_zosta_ze_mn.mp3"
+    },
+    {
+        "text": "osiem",
+        "audio": "sounds/092_osiem.mp3"
+    },
+    {
+        "text": "niski",
+        "audio": "sounds/093_niski.mp3"
+    },
+    {
+        "text": "młody",
+        "audio": "sounds/094_mody.mp3"
+    },
+    {
+        "text": "przegrany",
+        "audio": "sounds/095_przegrany.mp3"
+    },
+    {
+        "text": "starożytny",
+        "audio": "sounds/096_staroytny.mp3"
+    },
+    {
+        "text": "krew",
+        "audio": "sounds/097_krew.mp3"
+    },
+    {
+        "text": "idź dalej",
+        "audio": "sounds/098_id_dalej.mp3"
+    },
+    {
+        "text": "to tutaj",
+        "audio": "sounds/099_to_tutaj.mp3"
+    },
+    {
+        "text": "słuchać",
+        "audio": "sounds/100_sucha.mp3"
+    },
+    {
+        "text": "bardzo",
+        "audio": "sounds/101_bardzo.mp3"
+    },
+    {
+        "text": "bolesny",
+        "audio": "sounds/102_bolesny.mp3"
+    },
+    {
+        "text": "tutaj",
+        "audio": "sounds/103_tutaj.mp3"
+    },
+    {
+        "text": "chronię to miejsce",
+        "audio": "sounds/104_chroni_to_miejsce.mp3"
+    },
+    {
+        "text": "dziecko",
+        "audio": "sounds/105_dziecko.mp3"
+    },
+    {
+        "text": "kobieta tutaj",
+        "audio": "sounds/106_kobieta_tutaj.mp3"
+    },
+    {
+        "text": "tylko dla ciebie",
+        "audio": "sounds/107_tylko_dla_ciebie.mp3"
+    },
+    {
+        "text": "moje szczątki",
+        "audio": "sounds/108_moje_szcztki.mp3"
+    },
+    {
+        "text": "jesteś irytujący",
+        "audio": "sounds/109_jeste_irytujcy.mp3"
+    },
+    {
+        "text": "jestem za tobą",
+        "audio": "sounds/110_jestem_za_tob.mp3"
+    },
+    {
+        "text": "poruszaj się szybko",
+        "audio": "sounds/111_poruszaj_si_szybko.mp3"
+    },
+    {
+        "text": "nie mogę się przedostać",
+        "audio": "sounds/112_nie_mog_si_przedosta.mp3"
+    },
+    {
+        "text": "łódź",
+        "audio": "sounds/113_d.mp3"
+    },
+    {
+        "text": "fioletowe włosy",
+        "audio": "sounds/114_fioletowe_wosy.mp3"
+    },
+    {
+        "text": "przebrany",
+        "audio": "sounds/115_przebrany.mp3"
+    },
+    {
+        "text": "proszę, posłuchaj",
+        "audio": "sounds/116_prosz_posuchaj.mp3"
+    },
+    {
+        "text": "wesoły",
+        "audio": "sounds/117_wesoy.mp3"
+    },
+    {
+        "text": "w ciemności",
+        "audio": "sounds/118_w_ciemnoci.mp3"
+    },
+    {
+        "text": "zdjęcie",
+        "audio": "sounds/119_zdjcie.mp3"
+    },
+    {
+        "text": "odwołać się",
+        "audio": "sounds/120_odwoa_si.mp3"
+    },
+    {
+        "text": "irytujący",
+        "audio": "sounds/121_irytujcy.mp3"
+    },
+    {
+        "text": "szatan",
+        "audio": "sounds/122_szatan.mp3"
+    },
+    {
+        "text": "zaginiony",
+        "audio": "sounds/123_zaginiony.mp3"
+    },
+    {
+        "text": "okłamałem cię",
+        "audio": "sounds/124_okamaem_ci.mp3"
+    },
+    {
+        "text": "pomóż mi",
+        "audio": "sounds/125_pom_mi.mp3"
+    },
+    {
+        "text": "groby",
+        "audio": "sounds/126_groby.mp3"
+    },
+    {
+        "text": "traktowano mnie źle",
+        "audio": "sounds/127_traktowano_mnie_le.mp3"
+    },
+    {
+        "text": "ziemia",
+        "audio": "sounds/128_ziemia.mp3"
+    },
+    {
+        "text": "pozwól mi odpocząć",
+        "audio": "sounds/129_pozwl_mi_odpocz.mp3"
+    },
+    {
+        "text": "bóg",
+        "audio": "sounds/130_bg.mp3"
+    },
+    {
+        "text": "kwalifikowany",
+        "audio": "sounds/131_kwalifikowany.mp3"
+    },
+    {
+        "text": "jestem szczęśliwy",
+        "audio": "sounds/132_jestem_szczliwy.mp3"
+    },
+    {
+        "text": "jestem słaby",
+        "audio": "sounds/133_jestem_saby.mp3"
+    },
+    {
+        "text": "życie pozagrobowe",
+        "audio": "sounds/134_ycie_pozagrobowe.mp3"
+    },
+    {
+        "text": "przyjdź i idź",
+        "audio": "sounds/135_przyjd_i_id.mp3"
+    },
+    {
+        "text": "demon",
+        "audio": "sounds/136_demon.mp3"
+    },
+    {
+        "text": "jestem wzburzony",
+        "audio": "sounds/137_jestem_wzburzony.mp3"
+    },
+    {
+        "text": "miałem złą przeszłość",
+        "audio": "sounds/138_miaem_z_przeszo.mp3"
+    },
+    {
+        "text": "bądź ostrożny",
+        "audio": "sounds/139_bd_ostrony.mp3"
+    },
+    {
+        "text": "najstarszy",
+        "audio": "sounds/140_najstarszy.mp3"
+    },
+    {
+        "text": "zbadać",
+        "audio": "sounds/141_zbada.mp3"
+    },
+    {
+        "text": "mam wiele wyrzutów sumienia",
+        "audio": "sounds/142_mam_wiele_wyrzutw_su.mp3"
+    },
+    {
+        "text": "lekarz",
+        "audio": "sounds/143_lekarz.mp3"
+    },
+    {
+        "text": "proszę, przestań",
+        "audio": "sounds/144_prosz_przesta.mp3"
+    },
+    {
+        "text": "but",
+        "audio": "sounds/145_but.mp3"
+    },
+    {
+        "text": "pod żadnym warunkiem",
+        "audio": "sounds/146_pod_adnym_warunkiem.mp3"
+    },
+    {
+        "text": "to trudne",
+        "audio": "sounds/147_to_trudne.mp3"
+    },
+    {
+        "text": "plac zabaw",
+        "audio": "sounds/148_plac_zabaw.mp3"
+    },
+    {
+        "text": "to możliwe",
+        "audio": "sounds/149_to_moliwe.mp3"
+    },
+    {
+        "text": "żałosne",
+        "audio": "sounds/150_aosne.mp3"
+    },
+    {
+        "text": "czy widzisz?",
+        "audio": "sounds/151_czy_widzisz.mp3"
+    },
+    {
+        "text": "to nie ma sensu",
+        "audio": "sounds/152_to_nie_ma_sensu.mp3"
+    },
+    {
+        "text": "rzymski",
+        "audio": "sounds/153_rzymski.mp3"
+    },
+    {
+        "text": "co to jest?",
+        "audio": "sounds/154_co_to_jest.mp3"
+    },
+    {
+        "text": "stary",
+        "audio": "sounds/155_stary.mp3"
+    },
+    {
+        "text": "przybyłem z ciemnego miejsca",
+        "audio": "sounds/156_przybyem_z_ciemnego_.mp3"
+    },
+    {
+        "text": "zimny dotyk na karku",
+        "audio": "sounds/157_zimny_dotyk_na_karku.mp3"
+    },
+    {
+        "text": "szept zza ściany",
+        "audio": "sounds/158_szept_zza_ciany.mp3"
+    },
+    {
+        "text": "nie śpisz, prawda?",
+        "audio": "sounds/159_nie_pisz_prawda.mp3"
+    },
+    {
+        "text": "jego imię to Koszmar",
+        "audio": "sounds/160_jego_imi_to_koszmar.mp3"
+    },
+    {
+        "text": "cienie tańczą",
+        "audio": "sounds/161_cienie_tacz.mp3"
+    },
+    {
+        "text": "krwią napisane",
+        "audio": "sounds/162_krwi_napisane.mp3"
+    },
+    {
+        "text": "nie ruszaj się",
+        "audio": "sounds/163_nie_ruszaj_si.mp3"
+    },
+    {
+        "text": "jestem w twojej głowie",
+        "audio": "sounds/164_jestem_w_twojej_gowi.mp3"
+    },
+    {
+        "text": "wampirzy uścisk",
+        "audio": "sounds/165_wampirzy_ucisk.mp3"
+    },
+    {
+        "text": "Mroczny Książę",
+        "audio": "sounds/166_mroczny_ksi.mp3"
+    },
+    {
+        "text": "zatrzymaj się, albo umrzesz",
+        "audio": "sounds/167_zatrzymaj_si_albo_um.mp3"
+    },
+    {
+        "text": "dzwon pogrzebowy",
+        "audio": "sounds/168_dzwon_pogrzebowy.mp3"
+    },
+    {
+        "text": "otwarte drzwi same się zamkną",
+        "audio": "sounds/169_otwarte_drzwi_same_s.mp3"
+    },
+    {
+        "text": "widzę twoje lęki",
+        "audio": "sounds/170_widz_twoje_lki.mp3"
+    },
+    {
+        "text": "oczy zza lustra",
+        "audio": "sounds/171_oczy_zza_lustra.mp3"
+    },
+    {
+        "text": "zostań w swojej piwnicy",
+        "audio": "sounds/172_zosta_w_swojej_piwni.mp3"
+    },
+    {
+        "text": "słyszysz kroki na suficie?",
+        "audio": "sounds/173_syszysz_kroki_na_suf.mp3"
+    },
+    {
+        "text": "kruki nad twoim łóżkiem",
+        "audio": "sounds/174_kruki_nad_twoim_kiem.mp3"
+    },
+    {
+        "text": "mój dom jest tam, gdzie nie ma światła",
+        "audio": "sounds/175_mj_dom_jest_tam_gdzi.mp3"
+    },
+    {
+        "text": "diabelskie imię: Archanioł",
+        "audio": "sounds/176_diabelskie_imi_archa.mp3"
+    },
+    {
+        "text": "ziemia już krzyczy",
+        "audio": "sounds/177_ziemia_ju_krzyczy.mp3"
+    },
+    {
+        "text": "przyjdź do mnie na cmentarz",
+        "audio": "sounds/178_przyjd_do_mnie_na_cm.mp3"
+    },
+    {
+        "text": "uchwyciłem twój oddech",
+        "audio": "sounds/179_uchwyciem_twj_oddech.mp3"
+    },
+    {
+        "text": "Lilith",
+        "audio": "sounds/180_lilith.mp3"
+    },
+    {
+        "text": "Gabriel",
+        "audio": "sounds/181_gabriel.mp3"
+    },
+    {
+        "text": "Eryk",
+        "audio": "sounds/182_eryk.mp3"
+    },
+    {
+        "text": "Miren",
+        "audio": "sounds/183_miren.mp3"
+    },
+    {
+        "text": "Nadia",
+        "audio": "sounds/184_nadia.mp3"
+    },
+    {
+        "text": "Klim",
+        "audio": "sounds/185_klim.mp3"
+    },
+    {
+        "text": "Zofia",
+        "audio": "sounds/186_zofia.mp3"
+    },
+    {
+        "text": "Vesper",
+        "audio": "sounds/187_vesper.mp3"
+    },
+    {
+        "text": "Hektor",
+        "audio": "sounds/188_hektor.mp3"
+    },
+    {
+        "text": "Lena",
+        "audio": "sounds/189_lena.mp3"
+    },
+    {
+        "text": "Olaf",
+        "audio": "sounds/190_olaf.mp3"
+    },
+    {
+        "text": "Raven",
+        "audio": "sounds/191_raven.mp3"
+    },
+    {
+        "text": "Nina",
+        "audio": "sounds/192_nina.mp3"
+    },
+    {
+        "text": "August",
+        "audio": "sounds/193_august.mp3"
+    },
+    {
+        "text": "Liliana",
+        "audio": "sounds/194_liliana.mp3"
+    },
+    {
+        "text": "Maks",
+        "audio": "sounds/195_maks.mp3"
+    },
+    {
+        "text": "Ira",
+        "audio": "sounds/196_ira.mp3"
+    },
+    {
+        "text": "Selene",
+        "audio": "sounds/197_selene.mp3"
+    },
+    {
+        "text": "Mroczek",
+        "audio": "sounds/198_mroczek.mp3"
+    },
+    {
+        "text": "ciało w którym żyję",
+        "audio": "sounds/199_ciao_w_ktrym_yj.mp3"
+    }
 ]

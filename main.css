@@ -108,3 +108,12 @@ button:active {
 button {
     animation: ghostFloat 6s ease-in-out infinite;
 }
+
+small{
+    padding: 1.4rem;
+}
+
+a{
+    color: var(--glow);
+    text-decoration: none;
+}
